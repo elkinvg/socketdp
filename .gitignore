@@ -1,0 +1,5 @@
+*
+
+!.gitignore
+!SocketDeviceProxy.cpp
+!SocketDeviceProxy.h
